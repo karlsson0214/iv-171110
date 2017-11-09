@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Thu Nov 09 14:08:20 CET 2017
+class.Cherries.superclass=greenfoot.Actor
+class.Butterfly.superclass=greenfoot.Actor
+mainWindow.width=850
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=3.0.0
+class.Cherries.image=cherries.png
+world.lastInstantiated=MyWorld
+class.Pelican.image=pelican.png
+mainWindow.y=40
+mainWindow.x=40
+class.Butterfly.image=butterfly.png
+mainWindow.height=600
+class.Pelican.superclass=greenfoot.Actor
